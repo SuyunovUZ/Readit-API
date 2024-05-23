@@ -26,11 +26,11 @@ from drf_yasg import openapi
 
 schema_view = get_schema_view(
    openapi.Info(
-      title="Redit API",
+      title="Readit API",
       default_version='v2',
       description="Test description",
       terms_of_service="https://www.google.com/policies/terms/",
-      contact=openapi.Contact(email="aboqijonov12@gmail.com"),
+      contact=openapi.Contact(email="suyunov.asilbek.hayrullaevich@gmail.com"),
       license=openapi.License(name="MIT License"),
    ),
    public=True,
